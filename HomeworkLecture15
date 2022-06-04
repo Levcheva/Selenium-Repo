@@ -1,0 +1,40 @@
+
+Homework Lecture 15 - Kameliya
+
+Group 2 
+CSS Locators
+
+
+Skillo Logo - #homeIcon
+
+Home Button - #nav-link-home
+
+Profile Tab - #nav-link-profile
+
+Avatar Image - .fas.fa-camera
+
+Username - h2
+
+Edit Profile Button - i.fa-user-edit
+
+Posts -	li>strong.profile-stat-count
+
+Followers -	#followers
+
+Following -	#following
+
+
+
+All -	.btn-all
+
+Public -	.btn-public
+
+Private -	.btn-private
+
+
+First Post Image - img[src='https://i.imgur.com/mqQxcjK.jpg']
+
+Second Post Image - img[src='https://i.imgur.com/kyG5III.jpg']
+
+Third Post Image - img[src='https://i.imgur.com/A8qJAnO.jpg']
+
