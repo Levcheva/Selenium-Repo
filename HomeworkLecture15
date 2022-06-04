@@ -25,11 +25,11 @@ Following -	#following
 Profile Name - p>strong:last-of-type
 
 
-All -	.btn-all
+All Posts Button -	.btn-all
 
-Public -	.btn-public
+Public Posts Button -	.btn-public
 
-Private -	.btn-private
+Private Posts Button -	.btn-private
 
 
 First Post Image - img[src='https://i.imgur.com/mqQxcjK.jpg']
