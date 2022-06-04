@@ -13,7 +13,6 @@ Profile Tab - #nav-link-profile
 
 Avatar Image - .fas.fa-camera
 
-Username - h2
 
 Edit Profile Button - i.fa-user-edit
 
@@ -23,6 +22,7 @@ Followers -	#followers
 
 Following -	#following
 
+Profile Name - p>strong:last-of-type
 
 
 All -	.btn-all
